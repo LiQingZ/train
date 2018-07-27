@@ -1,0 +1,10 @@
+.todo-title{
+  font-size: 50px;
+  color: pink;
+  margin-left: 35%;
+  font-style: italic;
+}
+.todo-container{
+  width:500px;
+  height: 50px;
+}

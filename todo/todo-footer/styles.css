@@ -1,0 +1,9 @@
+.clicked{
+  border: 2px solid pink;
+  outline: none;
+  margin: 5px;
+}
+.no-click{
+  outline: none;
+  margin:5px;
+}

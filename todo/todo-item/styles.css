@@ -1,0 +1,15 @@
+.todo-item{
+  border:1px solid lightgray;
+  width: 500px;
+  height: 50px;
+  line-height: 50px;
+}
+.item-done{
+ color: aqua;
+ font-size: 14px;
+ text-decoration: line-through;
+}
+.item-todo{
+  color: aqua;
+  font-size: 14px;
+ }
